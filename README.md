@@ -1,10 +1,21 @@
-## Hey, I'm Jay  
+## Hey, I'm Jay
 
-I build software that tests, evaluates, and improves AI systems.  
+I build software that tests, evaluates, and improves AI systems.
 
-**BS Computer Science** · Four years of formal test operations in autonomous vehicles · Full-stack developer  
+**BS Computer Science** · Four years of formal test operations in autonomous vehicles · Full-stack developer
 
-My work sits at an unusual intersection: formal test discipline from safety-critical systems, project-based AI evaluation engineering, and full-stack SaaS development. I build things that work, break them to find out why, and then write down exactly what happened.  
+My work sits at an unusual intersection: formal test discipline from safety-critical systems, project-based AI evaluation engineering, and full-stack SaaS development. I build things that work, break them to find out why, and then write down exactly what happened.
+
+### Recent public work
+
+| Work | What it is |
+|------|-----------|
+| [Together streaming evidence](https://github.com/EngineeringWithJay/together-streaming-evidence) | Three synthetic SSE cases, pinned dependencies, deterministic replay, 8 passing tests. Delivered to the SDK's issue tracker. |
+| [Mastra token-estimation corpus](https://github.com/EngineeringWithJay/mastra-token-estimation-evidence) | 16 cases / 64 estimates with reproducible checks; upstream maintainer closed the issue. |
+| [PrismML / Bonsai benchmarks](https://github.com/PrismML-Eng/Bonsai-demo/pull/263) | Multi-hardware benchmark rows with review corrections in public. |
+| [Hugging Face lifecycle validation](https://github.com/huggingface/huggingface_hub/pull/5174#issuecomment-6214065260) | Independent before/after check of another contributor's fix. |
+
+**How I work:** evidence-first; AI-assisted and I say so openly; no strings attached — if something I publish helps you, use it.
 
 ### Ships in port
 
@@ -18,7 +29,7 @@ My work sits at an unusual intersection: formal test discipline from safety-crit
 | [ai-docs-saas](https://github.com/EngineeringWithJay/ai-docs-saas) | Multi-tenant AI document generation platform with RAG retrieval and PII redaction. |
 | [gigweave](https://github.com/EngineeringWithJay/gigweave) | AI-powered freelancer sourcing tool that analyzes profiles and generates targeted outreach. |
 
-### Contact  
+### Contact
 
-jayglidden.engineering@gmail.com  
+jayglidden.engineering@gmail.com
 github.com/EngineeringWithJay
